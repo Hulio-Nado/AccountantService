@@ -1,0 +1,1 @@
+alter table Employee add temporary varchar;
